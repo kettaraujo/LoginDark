@@ -1,6 +1,6 @@
 <h1 align="center"> Página de Login </h1>
 
-<h3 align="center"> Simples página de login desenvolvida para demonstrar habilidades em programação.</h3>
+<h3 align="center"> Simples página de login desenvolvida para demonstrar habilidades.</h3>
 
 ## 
 <h2 align="center"> ✔️ Tecnologias utilizadas </h2>
